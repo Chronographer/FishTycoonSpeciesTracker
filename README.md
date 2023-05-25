@@ -1,5 +1,5 @@
 # FishTycoonSpeciesTracker
-A rudimentary system to quickly and easily record new fish species and information about them in the classic "Fish Tycoon" game.
+A rudimentary GUI system to quickly and easily record new fish species and information about them in the classic "Fish Tycoon" game.
 
 
 In Fish Tycoon, the goal of the game is to discover the 7 magical fish of Isola and thus save the island's ecosystem. One of the
