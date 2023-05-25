@@ -1,0 +1,122 @@
+[
+    {
+        "name": "egg",
+        "parent1": "null",
+        "parent2": "null",
+        "price": 0,
+        "environment": "null",
+        "magic": false
+    },
+    {
+        "name": "Greenfin Spotanus",
+        "parent1": "Greenfin Spotanus",
+        "parent2": "Greenfin Spotanus",
+        "price": 56,
+        "environment": "basic",
+        "magic": true
+    },
+    {
+        "name": "Spined Stickfish",
+        "parent1": "egg",
+        "parent2": "egg",
+        "price": 4,
+        "environment": "basic",
+        "magic": false
+    },
+    {
+        "name": "Greenfin Stickfish",
+        "parent1": "Greenfin Stickfish",
+        "parent2": "Greenfin Stickfish",
+        "price": 0,
+        "environment": "basic",
+        "magic": false
+    },
+    {
+        "name": "Greenfin Beta",
+        "parent1": "Greenfin Spotanus",
+        "parent2": "Greenfin Stickfish",
+        "price": 17,
+        "environment": "basic",
+        "magic": false
+    },
+    {
+        "name": "Greenfin Bananafish",
+        "parent1": "Greenfin Beta",
+        "parent2": "Greenfin Spotanus",
+        "price": 15,
+        "environment": "intermediate",
+        "magic": false
+    },
+    {
+        "name": "Silky Beta",
+        "parent1": "egg",
+        "parent2": "egg",
+        "price": 12,
+        "environment": "basic",
+        "magic": false
+    },
+    {
+        "name": "Speckled Leaffish",
+        "parent1": "Greenfin Beta",
+        "parent2": "Spined Stickfish",
+        "price": 53,
+        "environment": "intermediate",
+        "magic": true
+    },
+    {
+        "name": "Razorback Pigmy",
+        "parent1": "Greenfin Spotanus",
+        "parent2": "Speckled Leaffish",
+        "price": 20,
+        "environment": "advanced",
+        "magic": false
+    },
+    {
+        "name": "Pink Fruitfish",
+        "parent1": "egg",
+        "parent2": "egg",
+        "price": 9,
+        "environment": "basic",
+        "magic": false
+    },
+    {
+        "name": "Flagged Arrowfish",
+        "parent1": "egg",
+        "parent2": "egg",
+        "price": 8,
+        "environment": "intermediate",
+        "magic": false
+    },
+    {
+        "name": "Oriental Stickfish",
+        "parent1": "Razorback Pigmy",
+        "parent2": "Pink Fruitfish",
+        "price": 21,
+        "environment": "unknown",
+        "magic": false
+    },
+    {
+        "name": "Great-Sail Comet",
+        "parent1": "Flagged Arrowfish",
+        "parent2": "Greenfin Spotanus",
+        "price": 20,
+        "environment": "advanced",
+        "magic": false
+    },
+    {
+        "name": "Razorback Stickfish",
+        "parent1": "Speckled Leaffish",
+        "parent2": "Great-Sail Comet",
+        "price": 12,
+        "environment": "unknown",
+        "magic": false
+    },
+    {
+        "name": "Orange Goldbulb",
+        "parent1": "Oriental Stickfish",
+        "parent2": "Canary Fruitfish",
+        "price": 24,
+        "environment": "intermediate",
+        "magic": false
+    }
+]
