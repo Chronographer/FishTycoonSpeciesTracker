@@ -18,4 +18,4 @@ Core feature targets include:
 4) Ability to view all information about any species in your database (DONE!)
 5) Ability to add new fish species whos parents are not in the database by manually typing in the names of the parents (DONE!)
 6) Ability to edit information about a fish already in the database (not started)
-7) Ability to add more parent combos to fish in database if said fish can be created from more than one combo (not started)
+7) Ability to add additional parent combinations to fish already in the database if said fish can be created from more than one pair of parents (not started)
